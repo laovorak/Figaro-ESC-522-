@@ -4,6 +4,4 @@ Darunsikkhalai School Secondary 5
 
 Interfacing Physics and Music
 
-Some tutorilas requires SHARC Timbre Database 
-
-Download from https://github.com/gregsandell/sharc-angular
+Some tutorials require SHARC Timbre Database from https://github.com/gregsandell/sharc-angular
